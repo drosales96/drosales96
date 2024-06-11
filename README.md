@@ -1,6 +1,6 @@
 # 💻 **Desarrollador de Software | Apasionado por la Tecnología 🚀**
 
-![Header](https://your-image-link.com)
+![Header](file:///home/drosales/Descargas/Banner%20para%20LinkedIn%20Personal%20fot%C3%B3grafo%20Moderno%20Blanco%20y%20negro.png)
 
 ## 👨‍💻 Sobre Mí
 ¡Hola! Soy un desarrollador de software con pasión por crear soluciones innovadoras y eficientes. Me encanta aprender nuevas tecnologías y mejorar mis habilidades constantemente.
