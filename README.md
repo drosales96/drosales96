@@ -13,6 +13,6 @@
 
 ## 🌟 Proyectos Destacados
 - [Proyecto 1](https://github.com/drosales96/42cursus) - Proyectos basados en mi aprendizaje en C.
-- [Proyecto 2](https://github.com/drosales96/Proyectos-HTML-CSS) - Proyectos freelance de Front-End.
+- [Proyecto 2](https://github.com/drosales96/Front-End) - Proyectos freelance de Front-End.
 
 ## 🚀 Let's Code!
