@@ -8,11 +8,11 @@
 - 🛠️ Habilidades: **JavaScript, CSS, HTML, C**
 
 ## 📫 Contacto
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/diego-francisco-rosales-canalejo-842736258/))
-- [Email](diegorcs95@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/diego-francisco-rosales-canalejo-842736258/)
+- [Email](mailto:diegorcs95@gmail.com)
 
 ## 🌟 Proyectos Destacados
-- [Proyecto 1]([https://github.com/your-username/proyecto1](https://github.com/drosales96/42cursus)) - Proyectos basados en mi aprendizaje en C.
-- [Proyecto 2]([https://github.com/your-username/proyecto2](https://github.com/drosales96/Proyectos-HTML-CSS)) - Proyectos freelance de Front-End.
+- [Proyecto 1](https://github.com/drosales96/42cursus) - Proyectos basados en mi aprendizaje en C.
+- [Proyecto 2](https://github.com/drosales96/Proyectos-HTML-CSS) - Proyectos freelance de Front-End.
 
 ## 🚀 Let's Code!
