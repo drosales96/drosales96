@@ -14,5 +14,6 @@
 ## 🌟 Proyectos Destacados
 - [Proyecto 1](https://github.com/drosales96/42cursus) - Proyectos basados en mi aprendizaje en C.
 - [Proyecto 2](https://github.com/drosales96/Front-End) - Proyectos freelance de Front-End.
+- [Proyecto 3](https://github.com/drosales96/IPFinder) - Primera aplicación con manejo de APIs.
 
 ## 🚀 Let's Code!
