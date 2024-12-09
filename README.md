@@ -8,11 +8,11 @@
 
 ## 🌟 Sobre mí
 
-¡Hola! Soy un desarrollador apasionado por la tecnología y la innovación. Me encanta resolver problemas y aprender cosas nuevas cada día. Mi especialidad es la **[Ciberseguridad]**, pero siempre estoy explorando nuevas áreas de la tecnología.
+¡Hola! Soy un desarrollador apasionado por la tecnología y la innovación. Me encanta resolver problemas y aprender cosas nuevas cada día. Mi especialidad es la **Ciberseguridad**, pero siempre estoy explorando nuevas áreas de la tecnología.
 
 ### 🚀 Actualmente:
 
-- 🌱 Aprendiendo: **[Programación en C, Análisis de redes, Pentesting, Ciberseguridad]**
+- 🌱 Aprendiendo: **Programación en C, Análisis de redes, Pentesting, Ciberseguridad**
 - 🤝 Abierto a colaborar en: **proyectos de código abierto y oportunidades de aprendizaje**
 
 ---
