@@ -12,7 +12,7 @@
 
 ### 🚀 Actualmente:
 
-- 🌱 Aprendiendo: **[Programación en C, Análisis de redes, Pentesting]**
+- 🌱 Aprendiendo: **[Programación en C, Análisis de redes, Pentesting, Ciberseguridad]**
 - 🤝 Abierto a colaborar en: **proyectos de código abierto y oportunidades de aprendizaje**
 
 ---
