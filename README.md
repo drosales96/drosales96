@@ -26,7 +26,6 @@
 ## 🌐 Contacto
 
 - **Correo Electrónico**: [tunombre@ejemplo.com](mailto:diegorcs95@gmail.com)
-- **LinkedIn**: [Tu Usuario de LinkedIn]((https://www.linkedin.com/in/drosales96-/))
 
 ---
 
