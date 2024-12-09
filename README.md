@@ -26,7 +26,7 @@
 
 ## 🌐 Contacto
 
-- **Correo Electrónico**: [tunombre@ejemplo.com](mailto:diegorcs95@gmail.com)
+- **Correo Electrónico**: [diegorcs95@gmail.com]
 
 ---
 
