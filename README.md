@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre] 
+# 👋 ¡Hola! Soy Diego Rosales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/drosales96-/)) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)]([https://github.com/tuusuario](https://github.com/drosales96))
