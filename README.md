@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)]([https://github.com/tuusuario](https://github.com/drosales96))
 
 ---
-[![<drosales>'s 42 stats](https://badge.mediaplus.ma/<greenbinary>/<drosales>)](https://github.com/oakoudad/badge42)
+[![drosales's 42 stats](https://badge.mediaplus.ma/greenbinary/drosales?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🌟 Sobre mí
 
