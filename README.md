@@ -4,6 +4,8 @@ Desarrollador de **Ciberseguridad** apasionado por la tecnología. Me encanta re
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drosales96-/)
 
+[![drosales's 42 stats](https://badge.mediaplus.ma/darkblue/drosales?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ---
 
 ## 🌟 Sobre mí
