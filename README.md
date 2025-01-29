@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Diego Rosales
 
-Desarrollador de **Ciberseguridad** apasionado por la tecnología. Me encanta resolver problemas y aprender todos los días.
-
+Desarrollador de **Ciberseguridad** apasionado por la tecnología. Me considero resolutivo, y siempre tengo ganas de seguir aprendiendo nuevas tecnologías para ser un gran profesional.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drosales96-/)
 
 [![drosales's 42 stats](https://badge.mediaplus.ma/darkblue/drosales?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
@@ -16,9 +15,8 @@ Desarrollador de **Ciberseguridad** apasionado por la tecnología. Me encanta re
 
 - 🌱 **Aprendiendo**: **Programación en C**, **Análisis de redes**, **Pentesting** y **Ciberseguridad**.
 - 🛠️ **Tecnologías que manejo**:
-  - **Lenguajes**: C, Python, JavaScript
-  - **Herramientas**: Kali Linux, Wireshark, Burp Suite
-  - **Frameworks**: Node.js, React
+  - **Lenguajes**: C, C++, Javascript, Python
+  - **Herramientas**: Kali Linux, Wireshark, Burp Suite, Nmap, Splunk
 - 🤝 **Abierto a**: Colaboraciones en proyectos de código abierto y oportunidades de aprendizaje.
 
 ---
