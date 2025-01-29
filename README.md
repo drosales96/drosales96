@@ -43,7 +43,7 @@ Si deseas ponerte en contacto conmigo, aquí están mis detalles:
 
 Aquí tienes un vistazo a mi perfil de la escuela 42. Haz clic en la imagen para verlo en detalle:
 
-🚀[![Mi perfil en 42](https://profile.intra.42.fr/users/drosales)
+🚀[Mi perfil en 42](https://profile.intra.42.fr/users/drosales)
 
 ---
 
