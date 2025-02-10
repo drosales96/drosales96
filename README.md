@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Diego Rosales
 
-Desarrollador de **Ciberseguridad** apasionado por la tecnología. Me considero resolutivo, y siempre tengo ganas de seguir aprendiendo nuevas tecnologías para ser un gran profesional.
+Analista de **Ciberseguridad** apasionado por la tecnología. Me considero resolutivo, y siempre tengo ganas de seguir aprendiendo nuevas tecnologías para ser un gran profesional.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drosales96-/)
 
 [![drosales's 42 stats](https://badge.mediaplus.ma/darkblue/drosales?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
@@ -9,7 +9,7 @@ Desarrollador de **Ciberseguridad** apasionado por la tecnología. Me considero 
 
 ## 🌟 Sobre mí
 
-¡Hola! Soy un desarrollador enfocado en la **Ciberseguridad**, pero siempre abierto a explorar nuevos horizontes tecnológicos. Mi objetivo es aprender, colaborar y contribuir a la comunidad de código abierto.
+¡Hola! Soy estudiante de desarrollo de software, y Analista Junior enfocado en la **Ciberseguridad**, pero siempre abierto a explorar nuevos horizontes tecnológicos. Mi objetivo es aprender, colaborar y contribuir a la comunidad de código abierto.
 
 ### 🚀 Actualmente:
 
